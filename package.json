@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "engines": {
-    "node": ">=24"
+    "node": "22"
   },
   "scripts": {
     "start": "./start.sh"
   },
   "dependencies": {
-    "n8n": "^2.38.7"
+    "n8n": "^1.0.0"
   }
 }
